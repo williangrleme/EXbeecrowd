@@ -1,2 +1,2 @@
 # EXbeecrowd
-Exercícios resolvidos da plataforma beecrowd (antigo uri judge )
+Exercícios resolvidos da plataforma beecrowd (antigo uri judge) por mim
